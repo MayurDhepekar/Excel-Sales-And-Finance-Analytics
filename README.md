@@ -14,7 +14,7 @@ Unlocking the potential within this dataset is crucial for maximizing AtliQ Hard
 
 ### Project 1: Sales Analysis and Reporting
 **Objective:** 
-Develop a comprehensive customer performance report and conduct an in-depth comparison of market performance and sales targets(https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf).
+Develop a comprehensive customer performance report(Customer Performance Report.pdf) and conduct an in-depth comparison of market performance and sales targets(https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf).
 
 **Key Achievements:**
 - Enabled businesses to effectively monitor and evaluate sales activities.
