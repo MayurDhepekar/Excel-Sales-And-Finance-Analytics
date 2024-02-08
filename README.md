@@ -1,47 +1,48 @@
-# Excel-Sales-And-Finance-Analytics
-# AtliQ Hardwares Data Analysis Project
+# Sales and Finance Reports Analysis
 
-## Problem Statement
-AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mice, and computers globally, aims to optimize sales and improve net gross margins.
+## Sales Report:
 
-## Project Goal
-This project involves analyzing a vast dataset comprising over half a million records of unorganized sales data, demanding extensive Extract, Transform, Load (ETL) efforts. The objective is to uncover strategic insights to empower AtliQ Hardwares to make informed decisions and effectively track key performance indicators (KPIs), ultimately driving substantial improvements in net sales and net gross margin.
+### Project Objective:
+1. Create a [customer performance report](https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf).
+2. Conduct a detailed comparison between [market performance and sales targets](https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf).
 
-## Why this project matters
-Unlocking the potential within this dataset is crucial for maximizing AtliQ Hardwares' sales and profitability. By harnessing the power of data analytics, this project aims to transform challenges into opportunities and facilitate data-driven decision-making, enhancing the company's global market presence and financial health.
+### Purpose of Sales Analytics:
+Empower businesses to monitor and evaluate their sales activities and performance, identifying key trends and insights.
 
-## Project Highlights
+### Importance of Analyzing Sales Data:
+Understanding sales patterns, tracking KPIs, and optimizing strategies for customer engagement and market expansion.
 
-### Project 1: Sales Analysis and Reporting
-**Objective:** 
-Develop a comprehensive customer performance report(https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/Customer%20Performance%20Report) and conduct an in-depth comparison of market performance and sales targets(https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf).
+### Role of Reports:
+Enable decision-makers to determine effective customer discounts, negotiate deals, and identify opportunities for international growth.
 
-**Key Achievements:**
-- Enabled businesses to effectively monitor and evaluate sales activities.
-- Identified critical sales patterns and tracked essential KPIs.
-- Assisted in determining optimal customer discounts and pinpointing international expansion opportunities.
+## Finance Report:
 
-### Project 2: Financial Analysis and Reporting
-**Objective:** 
-Create detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months, and produce P&L reports segmented by Markets.
+### Project Objective:
+1. Generate Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf) & [Months](https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Months.pdf).
+2. Create Profit and Loss (P&L) reports segmented by [Markets](https://github.com/MayurDhepekar/Excel-Sales-And-Finance-Analytics/blob/main/P%20%26%20L%20By%20Markets.pdf).
 
-**Key Achievements:**
-- Evaluated financial performance comprehensively, facilitating informed decision-making.
-- Supported effective communication with stakeholders through clear and insightful reports.
-- Contributed to benchmarking against industry peers and established a foundation for budgeting and forecasting.
+### Purpose of Financial Analysis:
+Evaluate the company's financial performance, support strategic decision-making, and ensure financial stability.
 
-## Technical and Soft Skills
+### Importance of Analyzing Finance Data:
+Benchmarking against industry peers, identifying areas for improvement, and laying the groundwork for budgeting and forecasting.
+
+### Role of Reports:
+Provide stakeholders with clear insights into financial performance, helping them align resources with organizational goals.
+
+## Technical & Soft Skills:
 
 ### Technical Skills:
-- Proficient in ETL methodology (Extract, Transform, Load).
-- Skilled in generating date tables using Power Query.
-- Experienced in deriving fiscal months and quarters.
-- Proficient in establishing data model relationships with Power Pivot.
-- Adept at incorporating supplementary data into existing data models.
-- Skilled in using DAX to create calculated columns.
+- Proficiency in ETL methodology (Extract, Transform, Load).
+- Ability to generate date tables using Power Query.
+- Derivation of fiscal months and quarters.
+- Establishing data model relationships with Power Pivot.
+- Incorporation of supplementary data into existing models.
+- Utilization of DAX to create calculated columns.
 
 ### Soft Skills:
-- Possess a refined understanding of Sales and Finance Reports.
-- Capable of designing user-centric reports with empathy in mind.
-- Experienced in optimizing report generation through meticulous fine-tuning.
-- Skillful in developing a systematic approach to devising a report-building plan.
+- Deep understanding of Sales & Finance Reports.
+- Designing user-centric reports with empathy.
+- Optimization of report generation through meticulous fine-tuning.
+- Development of systematic approaches to report building.
+
